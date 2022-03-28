@@ -1,4 +1,7 @@
 module.exports = {
+  // publicPath: './',
+  // outputDir: "dist",
+  // assetsDir: "static",
   transpileDependencies: true,
   configureWebpack: {
     resolve: {
